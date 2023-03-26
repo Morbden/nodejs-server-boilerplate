@@ -1,0 +1,13 @@
+# Dev Setup
+node_modules
+
+# Build
+dist
+build
+
+# Micellaneous
+.DS_Store
+*.log
+*.lock
+*lock.
+
