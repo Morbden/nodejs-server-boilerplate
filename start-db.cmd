@@ -1,1 +1,0 @@
-surreal start -p root -u root -l debug
